@@ -1,5 +1,5 @@
 # video-upravljanje-robotskim-vozilom (iotapp+mobapp)	
-Mobilna aplikacija za udaljeno video upravljanje robotskom platformom korištenjem Android Things-a.
+Sustav za udaljeno upravljanje robotskom platformom s integriranom kamerom.
 
 ### Autori (2018./2019.)
 - **Glavaš Tihana** (tglavas@unipu.hr)
