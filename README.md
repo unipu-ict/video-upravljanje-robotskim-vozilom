@@ -1,4 +1,4 @@
-# video-upravljanje-robotskim-vozilom (iotapp+mobapp)	
+# video-upravljanje-robotskim-vozilom (iotapp + mobapp)	
 Sustav za udaljeno upravljanje robotskom platformom s integriranom kamerom.
 
 ### Autori (2018./2019.)
